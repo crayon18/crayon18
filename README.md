@@ -107,7 +107,7 @@ this.introduce()
 <div style="width: 650px;">
  
  
-|**Skill**|**level**|
+|skill  | level|
 |---:|:---:|
 |  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/><br>|⭐⭐⭐⭐☆|
 |  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>|⭐⭐⭐⭐☆|
