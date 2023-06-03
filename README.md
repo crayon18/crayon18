@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crayon18&fontSize=90&fontColor=black)
-<pre>
-<code>
-```javascript
+
+```vue.js
 introduce(){
   const name = "Hi, I'm Crayon!"
   const description = "I'm a junior developer"
@@ -9,11 +8,12 @@ introduce(){
   
   console.log(name + description + closingArticle);
 }
-'''
-</code>
-</pre>
+```
+<br>
 
-<p style="color:yellow">this.introduce()<p>
+```vue.js
+this.introduce()
+```
   
   <h2>Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
 <br><br>
