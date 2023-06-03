@@ -72,7 +72,7 @@ this.introduce()
   <br>
   
 <p align="center">
-  ✏️ learning
+  ✏️ Learning
 </p>
   </p>
   <p align="center">
@@ -83,6 +83,17 @@ this.introduce()
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
 
   </p>
+ 
+ <br>
+ <br>
+ <p align="center">
+  🔎 Other
+</p>
+   <p align="center">
+      <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>&nbsp
+  </p>
+
   
   <br>
   <br>
