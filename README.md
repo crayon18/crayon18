@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crayon18&fontSize=90&fontColor=black)
 
-<center>
-  
-  <img src="https://github.com/crayon18/crayon18/assets/73837430/6b084a6f-efcd-4c5b-a7aa-aa2167971b94" width="800" height="300"/>
-
-</center>
-
 ```vue.js
 introduce(){
   const name = "Hi, I'm Crayon!"
@@ -22,6 +16,12 @@ this.introduce()
 ```
   
   <h2>Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
+  
+  <div align="center">
+  
+  <img src="https://github.com/crayon18/crayon18/assets/73837430/6b084a6f-efcd-4c5b-a7aa-aa2167971b94" width="700" height="300"/>
+
+</div>
 <br><br>
 <p align="center">
   🛠 Staks 🛠
