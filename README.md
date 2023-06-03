@@ -17,7 +17,7 @@ this.introduce()
   
   <h2>Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
 <br><br>
-<p>
+<p align="center">
   🛠 Staks 🛠
 </p>
 
