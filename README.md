@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff)
 
- <div align="center">
-  
-  <img src="https://github.com/crayon18/crayon18/assets/73837430/6b084a6f-efcd-4c5b-a7aa-aa2167971b94" width="700" height="300"/>
-
+<div align="center">  
+ <img src="https://github.com/crayon18/crayon18/assets/73837430/6b084a6f-efcd-4c5b-a7aa-aa2167971b94" width="700" height="300"/>
 </div>
 
 <br>
 
-<h2 align="center">💭 Who am i </h2>
+  <h2 align="center">💭 Who am i </h2>
 
 ```vue.js
 introduce(){
@@ -19,17 +17,19 @@ introduce(){
   console.log('result :' + name + description + closingArticle);
 }
 ```
+
 <br>
 
 ```vue.js
 this.introduce()
 ```
   
-  <h2 align="center">result : Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
+<h2 align="center">result : Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
  
 <br><br>
-  
-<p align="center">
+
+<div align="center">
+<p>
   🛠 Staks
 </p>
 <p align="center">
@@ -52,7 +52,7 @@ this.introduce()
   
   <br>
   <br>
-  <p align="center">
+<p>
   💻 Tool
 </p>
   <p align="center">
@@ -71,7 +71,7 @@ this.introduce()
   <br>
   <br>
   
-<p align="center">
+<p>
   ✏️ Learning
 </p>
   </p>
@@ -81,12 +81,12 @@ this.introduce()
   <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
-
   </p>
  
  <br>
  <br>
- <p align="center">
+ 
+ <p>
   🔎 Other
 </p>
    <p align="center">
@@ -94,17 +94,14 @@ this.introduce()
       <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>&nbsp
   </p>
 
-  
   <br>
   <br>
-  
-  <div align="center">
-    
+      
   [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrayon18&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/crayon18)
 
   
   ![crayon18's github stats](https://github-readme-stats.vercel.app/api?username=crayon18&show_icons=true&theme=radical)
-   
+ 
    <br>
    
  <span align="center">✍🏻 My most used lenguage<span>  
@@ -144,6 +141,8 @@ this.introduce()
  
  
   <br>
+ 
+ </div>
  
  <div align="center">
   
