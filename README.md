@@ -14,7 +14,7 @@ introduce(){
   const description = "I'm a junior developer"
   const closingArticle = "please take care of me ❤️"
   
-  console.log(name + description + closingArticle);
+  console.log('result :' + name + description + closingArticle);
 }
 ```
 <br>
@@ -23,7 +23,7 @@ introduce(){
 this.introduce()
 ```
   
-  <h2>Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
+  <h2 align="center">result : Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
  
 <br><br>
   
@@ -37,6 +37,7 @@ this.introduce()
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
@@ -90,9 +91,46 @@ this.introduce()
 
   
   ![crayon18's github stats](https://github-readme-stats.vercel.app/api?username=crayon18&show_icons=true&theme=radical)
+   
+   <br>
+   
+ <span align="center">✍🏻 My most used lenguage<span>  
+   
 [![crayon18's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crayon18&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/crayon18)
 
+  <br>
+  
+ <span>⭐️ Most skill's level<span>
+  
+<div style="width: 650px;">
+ 
+ 
+|**Skill**|**level**|
+|---:|:---:|
+|  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/><br>|⭐⭐⭐⭐☆|
+|  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>|⭐⭐⭐⭐☆|
+|  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>|⭐⭐⭐☆☆|
+|  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
+|  <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
+
+
+ 
+ <br>
+ 
+<details>
+<summary >My secret</summary>
+<div markdown="1">       
+<br>
+ 
+ ![_코드-001](https://github.com/crayon18/crayon18/assets/73837430/aa9620df-3834-430c-a99d-f8b7c5cf5212)
+
+</div>
+</details>
+ 
+   <div>
+    
   </div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 <!--
