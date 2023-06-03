@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crayon18&fontSize=90&fontColor=black)
 
+<div>
+  
+  <img src="https://github.com/crayon18/crayon18/assets/73837430/6b084a6f-efcd-4c5b-a7aa-aa2167971b94" width="100%" height="300"/>
+
+  
+</div>
+
 ```vue.js
 introduce(){
   const name = "Hi, I'm Crayon!"
@@ -27,13 +34,14 @@ this.introduce()
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp
-
-
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp
 </p>
+  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 <!--
