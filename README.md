@@ -8,6 +8,8 @@
 
 <br>
 
+<h2 align="center">💭 Who am i </h2>
+
 ```vue.js
 introduce(){
   const name = "Hi, I'm Crayon!"
@@ -118,7 +120,7 @@ this.introduce()
  <br>
  
 <details>
-<summary >My secret</summary>
+<summary >My private project</summary>
 <div markdown="1">       
 <br>
  
