@@ -110,7 +110,7 @@ this.introduce()
 
   <br>
   
- <span>⭐️ Most skill's level<span>
+ <span>⭐️ Most used skill's level<span>
   
 <div style="width: 650px;">
  
