@@ -138,7 +138,7 @@ this.introduce()
   
   <h5> 💬 Ask me about </h5>
   <h6><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>  crayon18color33@gmail.coom</h6>
-  <h6><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><a href="http://www.naver.com">Crayon's Tistory</a></h6>
+  <h6><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><a href="https://crayon18color.tistory.com/">Crayon's Tistory</a></h6>
 
   <div>
  
