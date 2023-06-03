@@ -114,13 +114,11 @@ this.introduce()
 |  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>|⭐⭐⭐☆☆|
 |  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
 |  <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
-
-
  
  <br>
  
 <details>
-<summary >My private project</summary>
+<summary>🔒 My private project</summary>
 <div markdown="1">       
 <br>
  
@@ -132,7 +130,18 @@ this.introduce()
    <div>
     
   </div>
+ 
+ 
+  <br>
+ 
+ <div align="center">
+  
+  <h5> 💬 Ask me about </h5>
+  <h6><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>  crayon18color33@gmail.coom</h6>
+  <h6><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><a href="http://www.naver.com">Crayon's Tistory</a></h6>
 
+  <div>
+ 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 <!--
