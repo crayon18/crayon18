@@ -118,7 +118,7 @@ this.introduce()
 |skill  | level|
 |---:|:---:|
 |  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/><br>|⭐⭐⭐⭐☆|
-|  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>|⭐⭐⭐⭐☆|
+|  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>|⭐⭐⭐☆☆|
 |  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>|⭐⭐⭐☆☆|
 |  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
 |  <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
