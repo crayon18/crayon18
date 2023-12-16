@@ -12,7 +12,7 @@
 introduce(){
   const name = "Hi, I'm Crayon!"
   const description = "I'm a junior developer"
-  const closingArticle = "please take care of me ❤️"
+  const closingArticle = "please take care of me"
   
   console.log('result :' + name + description + closingArticle);
 }
@@ -24,7 +24,7 @@ introduce(){
 this.introduce()
 ```
   
-<h2 align="center">result : Hi, I'm Crayon! I'm a junior developer please take care of me ❤️<h2>
+<h2 align="center">result : Hi, I'm Crayon! I'm a junior developer please take care of me<h2>
  
 <br><br>
 
@@ -48,6 +48,8 @@ this.introduce()
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82"/>&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
 </p>
   
   <br>
@@ -65,7 +67,6 @@ this.introduce()
   <img src="https://img.shields.io/badge/telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp
-
   </p>
   
   <br>
@@ -80,7 +81,6 @@ this.introduce()
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
   </p>
  
  <br>
@@ -108,39 +108,6 @@ this.introduce()
    
 [![crayon18's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crayon18&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/crayon18)
 
-  <br>
-  
- <span>⭐️ Most used skill's level<span>
-  
-<div style="width: 650px;">
- 
- 
-|skill  | level|
-|---:|:---:|
-|  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/><br>|⭐⭐⭐⭐☆|
-|  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>|⭐⭐⭐☆☆|
-|  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>|⭐⭐⭐☆☆|
-|  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
-|  <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/><br>|⭐⭐⭐☆☆|
- 
- <br>
- 
-<details>
-<summary>🔒 My private project</summary>
-<div markdown="1">       
-<br>
- 
- ![_코드-001](https://github.com/crayon18/crayon18/assets/73837430/aa9620df-3834-430c-a99d-f8b7c5cf5212)
-
-</div>
-</details>
- 
-   <div>
-    
-  </div>
- 
- 
-  <br>
  
  </div>
  
